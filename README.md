@@ -10,7 +10,7 @@ This project is based on [firefox-yt-addon](https://github.com/atahabaki/firefox
 
 ## Screenshots
 
-![@youtube ticket](./show.png)
+![@stract in search bar](./show.png)
 
 ## How does this work?
 

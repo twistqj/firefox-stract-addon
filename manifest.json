@@ -1,20 +1,20 @@
 {
   "manifest_version": 2,
-  "name": "YouTube Search Engine",
-  "description": "Adds YouTube search engine",
-  "version": "1.2",
-  "author": "A. Taha Baki",
-  "homepage_url": "https://github.com/atahabaki/firefox-yt-addon",
+  "name": "Stract Search Engine",
+  "description": "Adds the Stract search engine",
+  "version": "1.0",
+  "author": "twistqj",
+  "homepage_url": "https://github.com/twistqj/firefox-stract-addon",
   "developer": {
-    "name": "A. Taha Baki",
-    "url": "https://bio.link/atahabaki"
+    "name": "twistqj",
+    "url": "https://github.com/twistqj"
   },
   "chrome_settings_overrides": {
     "search_provider": {
-      "name": "YouTube",
-      "search_url":"https://www.youtube.com/results?search_query={searchTerms}",
-      "keyword": "@youtube",
-      "favicon_url": "https://www.youtube.com/favicon.ico",
+      "name": "Stract",
+      "search_url":"https://stract.com/search?q={searchTerms}",
+      "keyword": "@stract",
+      "favicon_url": "http://stract.com/favicon.ico",
       "is_default": false,
       "encoding": "UTF-8"
     }

@@ -1,21 +1,17 @@
-# YouTube Search Engine
+# Stract Search Engine
 
-Adds YouTube search engine to your firefox browser. In URL bar you could just 
-type "@youtube search_query".
+Adds the Stract search engine to your firefox browser. In the URL bar you simply type
 
-I'm developing also another great extension which is a multi search engine,
-currently in development. Take a look at it 
-[here](https://github.com/atahabaki/smart-search). I recommend it.
+`@stract search_query`
 
-If you want follow what I'm currently working and developing... Follow my
-GitHub account. Stay tuned!..
+There is currently no support for [optics](https://stract.com/settings/optics) or similar things.
+
+This project is based on [firefox-yt-addon](https://github.com/atahabaki/firefox-yt-addon) by [atahabaki](https://github.com/atahabaki). I liked to have something similar for Stract also so this is why I created this fork.
 
 ## Screenshots
 
 ![@youtube ticket](./show.png)
 
-## How this works?
+## How does this work?
 
-Firefox has a `chrome_settings_overrides.search_provider` to add your search 
-engine to the omnibox. Please, take a look at 
-[MDN docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides).
+Firefox has `chrome_settings_overrides.search_provider` to add your search engine to the omnibox. To learn more, take a look at [MDN docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides).

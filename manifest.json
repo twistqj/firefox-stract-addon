@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Firefox Stract addon",
-  "description": "Adds the Stract search engine",
+  "description": "Adds the Stract search engine to Firefox",
   "version": "1.0",
   "author": "twistqj",
   "homepage_url": "https://github.com/twistqj/firefox-stract-addon",

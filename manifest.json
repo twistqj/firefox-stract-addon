@@ -14,7 +14,7 @@
       "name": "Stract",
       "search_url":"https://stract.com/search?q={searchTerms}",
       "keyword": "@stract",
-      "favicon_url": "http://stract.com/favicon.ico",
+      "favicon_url": "https://stract.com/favicon.ico",
       "is_default": false,
       "encoding": "UTF-8"
     }

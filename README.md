@@ -1,8 +1,10 @@
-# Stract Search Engine
+# Firefox Stract addon
 
-Adds the Stract search engine to your firefox browser. In the URL bar you simply type
+Adds the [Stract search engine](https://stract.com/) to your firefox browser. In the URL bar you simply type
 
 `@stract search_query`
+
+This addon also enables you to set Stract as your default search engine, but it does not happen automatically.
 
 There is currently no support for [optics](https://stract.com/settings/optics) or similar things.
 

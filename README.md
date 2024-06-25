@@ -1,4 +1,4 @@
-# Firefox Stract addon
+# Stract addon for Firefox
 
 Adds the [Stract search engine](https://stract.com/) to your firefox browser. In the URL bar you simply type
 

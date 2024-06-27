@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Stract addon for Firefox",
   "description": "Adds the Stract search engine to Firefox",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "twistqj",
   "homepage_url": "https://github.com/twistqj/stract-addon-firefox",
   "developer": {
@@ -17,6 +17,11 @@
       "favicon_url": "https://stract.com/favicon.ico",
       "is_default": false,
       "encoding": "UTF-8"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{b2977607-1aac-4d84-bd1e-63285a0a3b7c}"
     }
   }
 }
